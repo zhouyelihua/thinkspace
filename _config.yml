@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "拼命奔跑的大蜗牛"
-title2: "space" # default: ""
+title2: "" # default: ""
 description: "昨夜星辰昨夜风"
 keywords: "machine learning,cv,nlp,c++,algorithm"
 url: https://github.com/zhouyelihua # site url
