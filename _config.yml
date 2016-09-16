@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
+title: "拼命奔跑的大蜗牛"
 title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+description: "昨夜星辰昨夜风"
+keywords: "machine learning,cv,nlp,c++,algorithm"
+url: https://github.com/zhouyelihua # site url
+baseurl: "/zhouyelihua.github.io" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
+google_analytics:null
+repo: https://github.com/zhouyelihua/zhouyelihua.github.io
+disqus_shortname: "snail"
+twitter_username: "null"
 comments: true
 
 # Build settings
@@ -29,21 +29,21 @@ sass:
 
 # Author settings
 author:
-  name     : "Heiswayi Nrird"
+  name     : "snail run"
   job      : "R&D Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  bio      : "冰冷的机器将改变冰冷的世界"
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
+  email    : yeahpingye@gmail.com
+  url      : https://github.com/zhouyelihua/zhouyelihua.github.io
+  github   : https://github.com/zhouyelihua/zhouyelihua.github.io
+  twitter  : null
+  facebook : null
+  linkedin : null
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@"
 
 gems:
   - bourbon
