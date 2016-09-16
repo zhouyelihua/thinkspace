@@ -27,9 +27,9 @@ sass:
 
 # Author settings
 author:
-  name     : "snail run"
-  job      : "R&D Software Engineer"
-  bio      : "冰冷的机器将改变冰冷的世界"
+  name     : "running-snail"
+  job      : "R&D Software Engineer..."
+  bio      : "冰冷的机器将改变冰冷的世界..."
   thumb    : /images/author.jpg
   email    : yeahpingye@gmail.com
   url      : https://github.com/zhouyelihua/zhouyelihua.github.io
