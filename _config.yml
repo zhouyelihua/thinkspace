@@ -8,10 +8,8 @@ url: https://github.com/zhouyelihua # site url
 baseurl: "/zhouyelihua.github.io" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics:null
 repo: https://github.com/zhouyelihua/zhouyelihua.github.io
 disqus_shortname: "snail"
-twitter_username: "null"
 comments: true
 
 # Build settings
@@ -36,9 +34,6 @@ author:
   email    : yeahpingye@gmail.com
   url      : https://github.com/zhouyelihua/zhouyelihua.github.io
   github   : https://github.com/zhouyelihua/zhouyelihua.github.io
-  twitter  : null
-  facebook : null
-  linkedin : null
 
 # social settings
 og_locale: "en_US"
