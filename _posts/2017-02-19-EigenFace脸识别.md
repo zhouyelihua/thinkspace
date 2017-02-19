@@ -6,7 +6,7 @@ comments: false
 keywords: "EigenFace的识别"
 ---
 
-##具体的步骤如下：
+1. 具体的步骤如下：
 
 a . 首先假设单张人脸的矩阵是 
 
@@ -56,11 +56,11 @@ $$x_1,x_2,...$$
 
 
 
-##具体的代码分析
+2. 具体的代码分析
 
 这里我们首先分析sklearn python库给出的一个Eigen Face识别的代码分析
 
-![代码地址](http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#sphx-glr-auto-examples-applications-face-recognition-py)
+【代码地址】(http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#sphx-glr-auto-examples-applications-face-recognition-py )
 
 ###代码与代码分析
 
