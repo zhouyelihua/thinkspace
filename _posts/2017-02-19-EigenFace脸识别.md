@@ -5,6 +5,7 @@ description: "EigenFace的识别"
 comments: false
 keywords: "EigenFace的识别"
 ---
+
 ##具体的步骤如下：
 
 a . 首先假设单张人脸的矩阵是 
@@ -59,10 +60,12 @@ $$x_1,x_2,...$$
 
 这里我们首先分析sklearn python库给出的一个Eigen Face识别的代码分析
 
-代码地址**http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#sphx-glr-auto-examples-applications-face-recognition-py**
+![代码地址](http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#sphx-glr-auto-examples-applications-face-recognition-py)
 
 ###代码与代码分析
+
 ```python
+
 """
 ===================================================
 Faces recognition example using eigenfaces and SVMs
@@ -225,6 +228,7 @@ eigenface_titles = ["eigenface %d" % i for i in range(eigenfaces.shape[0])]
 plot_gallery(eigenfaces, eigenface_titles, h, w)
 
 plt.show()
+
 
 ```
 
